@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jirryle
 - 👀 I’m interested in ... computer science, programming, math, etc.
-- 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... jerry.len123@gmail.com
+- 🌱 I’m currently learning ... software engineering, machine learning, discrete mathematics, etc.
+- 📫 How to reach me ... jl312@rice.edu
 
 <!---
 jirryle/jirryle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
