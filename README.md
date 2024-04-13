@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jirryle
-- 👀 I’m interested in ... computer science, programming, math, etc.
-- 🌱 I’m currently learning ... software engineering, machine learning, discrete mathematics, etc.
-- 📫 How to reach me ... jl312@rice.edu and http://www.jerryli.tech!
+- Check out my personal portfolio http://www.jerryli.tech to view my personal projects!
+- 📫 How to reach me ... jl312@rice.edu
 
 <!---
 jirryle/jirryle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
