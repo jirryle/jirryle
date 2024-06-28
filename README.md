@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jirryle
-- Check out my personal portfolio http://www.jerryli.tech to view my personal projects!
 - 📫 How to reach me ... jl312@rice.edu
 
 <!---
